@@ -1451,6 +1451,26 @@ builtin-status-codes@^3.0.0:
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
 
+bulma-checkradio@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/bulma-checkradio/-/bulma-checkradio-2.1.0.tgz#494ab05b0245a41a0083bbd08436fafbde4b3814"
+  integrity sha512-u/EBioHqmeMaUyVc+P9ellOldIVER4SSzkCYo7+KOBAIZuRm6zRWKste8DAFfsk8sq2xrX16gKXr7vCy7NC0zw==
+
+bulma-extensions@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/bulma-extensions/-/bulma-extensions-4.0.0.tgz#c37b0c539179fb9cffffa1c0116a6639d0f1e871"
+  integrity sha512-RrHX5FoDHsMuuMA2/mqkY5XbQSg6KT8mJBaS20kQmb3eS1qRkwU7WMKJ9CQAi9tIsk8SO0EUHsu88k1xplF6Yw==
+
+bulma-timeline@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/bulma-timeline/-/bulma-timeline-3.0.0.tgz#2ab7c60618b859941ea1cb5a282fbb41c348ea4c"
+  integrity sha512-+3HCu4ey1LxDc/0IlEegy6cL3WQ6uc4ZOEBvTcKgU5bQjoCC2DKBG1rRKoGjv3nBe1SvMLBJv7xsJ1GqiI07vA==
+
+bulma@^0.7.2:
+  version "0.7.2"
+  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.7.2.tgz#8e944377b74c7926558830d38d8e19eaf49f5fb6"
+  integrity sha512-6JHEu8U/1xsyOst/El5ImLcZIiE2JFXgvrz8GGWbnDLwTNRPJzdAM0aoUM1Ns0avALcVb6KZz9NhzmU53dGDcQ==
+
 bytes@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/bytes/-/bytes-3.0.0.tgz#d32815404d689699f85a4ea4fa8755dd13a96048"
@@ -7067,6 +7087,13 @@ sane@~1.6.0:
     minimist "^1.1.1"
     walker "~1.0.5"
     watch "~0.10.0"
+
+sass@^1.15.2:
+  version "1.15.2"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.15.2.tgz#539f464a61e29a9e4f560ec9dc2ccc5236db8474"
+  integrity sha512-YFncPpx3ewKEhMg9sWdCxKUpPN/jwVLa0Q9iO2tcV5Y5Z/YAlFV6k6JaQwq3tmbN6FXKjUYElXRHcG0g4D1zkQ==
+  dependencies:
+    chokidar "^2.0.0"
 
 sax@^1.2.1, sax@^1.2.4, sax@~1.2.1:
   version "1.2.4"

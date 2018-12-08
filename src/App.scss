@@ -1,5 +1,5 @@
 @import '~bulma-timeline';
-// @import '~bulma-checkradio';
+@import '~bulma-checkradio';
 
 .App {
   text-align: center;
@@ -23,6 +23,10 @@
 
 .App-intro {
   font-size: large;
+}
+
+ul {
+  list-style-type: none;
 }
 
 @keyframes App-logo-spin {
